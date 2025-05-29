@@ -4,3 +4,4 @@ All of these files can be directly added to your **Counter-Strike Source** folde
 
 You can replace any existing files. 
 
+For more information, you can check out the _HOW TO INSTALL.odt_ file. 
