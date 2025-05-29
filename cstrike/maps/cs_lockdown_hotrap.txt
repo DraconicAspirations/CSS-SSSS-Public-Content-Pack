@@ -1,0 +1,16 @@
+CS_Lockdown_Hotrap (hot traps)
+- Hostage Rescue mission
+
+Terrorists stormed the prison and freed the other dangerous criminals. They took as a hostages of some prison staff who survived.
+In order to prevent the antiterrorist forces to easily enter, the terrorists completely mined the prison with explosive barrels, thereby making the "hot traps".
+
+Counter-Terrorists: Enter into the mined prison, liquidate the terrorists and rescue the surviving hostages.
+
+Terrorists: Prevent rescuing the hostages! Use wisely the hot traps to destroy or do much harm for anti-terrorist forces. Be careful that by yourself don`t get into the hot trap.
+
+Notes: Hostages are on a ground floor and with a floor above.
+Some bots can blow themselves the hot traps and may die (sometimes should clear the way for them).
+If you accidentally killed your partner, then in the next round you will not be involved.
+
+Credits: Source ver. by Valve.
+Dmitry Ghervas ("Green Way Interactive" studio) - ported/edited map of HL2:Deathmatch to CS:Source.

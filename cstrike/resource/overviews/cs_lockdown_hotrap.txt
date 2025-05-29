@@ -1,0 +1,10 @@
+// Overview: scale 6.00, pos_x -7663, pos_y 7161
+
+"cs_lockdown_hotrap"
+{
+	"material"	"overviews/cs_lockdown_hotrap"	// texture file
+	"pos_x"		"-7663"	// upper left world coordinate
+	"pos_y"		"7161"
+	"scale"		"6"
+}
+

@@ -1,0 +1,28 @@
+fy_assault
+----------
+Textures, models, sound by Valve
+Original cs_assault from CS Beta 1.1 (June 27th 1999) by CryptR
+
+
+Counter-Terrorists:
+  Intel indicates that a terror cell is laundering money in an
+  abandoned warehouse in eastern America. Sadly, both laundering
+  money and openly being a  terrorist is against state laws,
+  so instead of meeting them and bragaining crack pricing we are
+  going to shoot them dead.
+
+Terrorists:
+  State Police tracked us down. Kill their recon squad, load all
+  the money into the incoming cargo train and get the fuck away.
+
+
+Notes:
+- Created November 2008 for a contest on thewall.de. Fixes,
+  balance and additions from August 2010
+- There are grenades in the central hall vent, shoot the
+  grates and they fall out
+- There is a buyzone in the middle of the tracks
+
+   
+by aciD - August 2010.
+For more projects, visit acidmaps.net

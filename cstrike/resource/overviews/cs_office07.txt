@@ -1,0 +1,9 @@
+"cs_office07"
+{
+	"material"	"overviews/cs_office07"	// texture file
+	"pos_x"		"-2662"	// X coordinate,
+	"pos_y"		"1752"	// Y coordinate,
+	"scale"		"4.11" 	// and used scale used when taking the screenshot
+	"rotate"	"0"	// map was rotated by 90 degress in image editor
+	"zoom"		"1.2"	// optimal zoom factor if map is shown in full size
+}

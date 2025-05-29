@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\Trollface_four"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.150"
+
+}

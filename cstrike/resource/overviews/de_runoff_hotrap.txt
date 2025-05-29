@@ -1,0 +1,14 @@
+// HLTV overview description file for de_runoff_hotrap.bsp
+
+// Overview: scale 6.00, pos_x 6261, pos_y 6238
+
+"de_runoff_hotrap"
+{
+	"material"	"overviews/de_runoff_hotrap"	// texture file
+	"pos_x"		"6261"	// upper left world coordinate
+	"pos_y"		"6238"
+	"scale"		"6"
+	"rotate"		"0"	// map was rotated by 90 degress in image editor
+	"zoom"		"8.5"	// optimal zoom factor if map is shown in full size
+}
+
