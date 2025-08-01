@@ -1,0 +1,15 @@
+Biodome - Hostage Rescue
+Made by Foofinoo
+
+
+
+While a terrorist group has invaded the Black Mesa Research Facility to steal their new energy weapons, something strange seems to have happened in this place...
+
+Most of the inhabitants appear to be missing, as if everyone had suddenly decided to leave overnight. In addition, military equipment and traces of combat are scattered throughout the laboratories. On top of that, strange creatures seem to prowl in these corridors...
+
+Despite all that, the terrorists were still able to get their hands on several scientists. A team of counter-terrorists was sent to rescue them.
+
+
+
+Level Design, Textures, Models, Sounds, Particles - Foofinoo
+Custom Content - Black Mesa - Crowbar Collective

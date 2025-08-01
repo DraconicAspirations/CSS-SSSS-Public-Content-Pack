@@ -1,0 +1,37 @@
+February 2007
+========
+cs_drugbust: Counter Strike: Source
+========
+Created by Calum "malfuncti0n" Boyes
+========
+Recomended players: 4-16
+========
+Spawns: 32
+========
+Comments:
+========
+
+A remake of the classic cs_crackhouse map for Counter Strike made by [GaD]Renegade a.k.a Wrenny.
+
+========
+Backstory
+========
+
+New York City, police forces have been dispatched to clear and take down a small crackhouse within the industial section of the city. Suspects inside have taken hostages and have fired upon police officers, S.W.A.T. has been authorized to use force and breach the building.
+
+========
+Special Thanks
+========
+
+Hot564231: For his custom hostage skins.
+Wrenny: The creator of the origional cs_crackhouse for the origional Counter Strike.
+Zareh: The creator of the police and taxi car models.
+Makers of "America's Army": Various models ported from their game done by Illkid.
+Valve: This could not have been made without an exellent game and engine made by Valve.
+All others who gave their thoughts and suggestions
+
+========
+Contact
+========
+
+demolisher763@hotmail.com
